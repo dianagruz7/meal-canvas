@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppColors.loaderTop — keeps the native launch window on-brand so the
+         pre-Flutter frame is a dark brand card, not a white flash. -->
+    <color name="splash_bg">#FF2A2C3D</color>
+</resources>

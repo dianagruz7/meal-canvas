@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {"name":"icon_1024","type":"icon","prompt":"App icon, glossy 3D terracotta ceramic bowl with a single sage green leaf, one single centered object, cream radial gradient background, crisp edges, soft shadow, no text"},
+    {"name":"bg_loader","type":"bg","prompt":"Vertical 9:16 mobile app loader background, dark warm kitchen linen texture, deep slate blue and terracotta tones, cinematic moody lighting, no text, no UI elements"},
+    {"name":"bg_menu","type":"bg","prompt":"Vertical 9:16 mobile app menu background, cream recycled paper texture with faint kitchen grid lines, warm editorial magazine feel, no text, no UI elements"},
+    {"name":"bg_game","type":"bg","prompt":"Vertical 9:16 mobile app background, soft blurred cream paper with subtle sage and terracotta wash, low contrast for UI overlay, no text, no UI elements"},
+    {"name":"sprite_bowl","type":"sprite","prompt":"One single cute cartoon bowl of pasta, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_veggie","type":"sprite","prompt":"One single cute cartoon broccoli, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_protein","type":"sprite","prompt":"One single cute cartoon roast chicken leg, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_grain","type":"sprite","prompt":"One single cute cartoon loaf of bread, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_basket","type":"sprite","prompt":"One single cute cartoon woven shopping basket, centered icon, glossy 3D render, isolated on plain white, no other objects"},
+    {"name":"sprite_notebook","type":"sprite","prompt":"One single cute cartoon open notebook with a pencil, centered icon, glossy 3D render, isolated on plain white, no other objects"}
+  ]
+}
